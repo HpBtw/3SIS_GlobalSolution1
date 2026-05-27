@@ -1,3 +1,6 @@
 [submodule "Docs"]
 	path = Docs
 	url = https://github.com/HpBtw/GS1_Docs
+[submodule "Back-end"]
+	path = Back-end
+	url = https://github.com/HpBtw/GS1_Backend
