@@ -4,3 +4,6 @@
 [submodule "Back-end"]
 	path = Back-end
 	url = https://github.com/HpBtw/GS1_Backend
+[submodule "Android-app"]
+	path = Android-app
+	url = https://github.com/mrsMatheusRocha/AndroidApp.git
