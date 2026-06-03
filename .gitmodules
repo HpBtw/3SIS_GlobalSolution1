@@ -7,3 +7,6 @@
 [submodule "Android-app"]
 	path = Android-app
 	url = https://github.com/mrsMatheusRocha/AndroidApp.git
+[submodule "Flutter-app"]
+	path = Flutter-app
+	url = https://github.com/HpBtw/GS1_Flutter
